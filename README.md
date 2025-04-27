@@ -36,15 +36,6 @@ Ao final da consulta, o médico pode emitir atestados ou receitas digitais, que 
 4. Documentos são armazenados no S3 de forma segura.
 5. Um link para o documento é enviado ao paciente via SMS (SNS).
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.  
-Sinta-se livre para usar, modificar e melhorar!
-
----
-
 
 
 
