@@ -39,4 +39,5 @@ Ao final da consulta, o médico pode emitir atestados ou receitas digitais, que 
 
 
 
+## Para visualizar o projeto entre no link abaixo:
 https://excalidraw.com/#json=cJte9xKtWeeiXWWheT9EX,ycN-mWf24ozhDJjowO0cDw
